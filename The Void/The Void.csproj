@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>The_Void</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Void.BL\Void.BL.csproj" />
+    <ProjectReference Include="..\Void.Core\Void.Core.csproj" />
+    <ProjectReference Include="..\Void.Repository\Void.Repository.csproj" />
+  </ItemGroup>
+
+
+</Project>

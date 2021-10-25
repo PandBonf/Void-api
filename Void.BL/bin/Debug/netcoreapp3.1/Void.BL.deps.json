@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Void.BL/1.0.0": {
+        "dependencies": {
+          "Void.Core": "1.0.0"
+        },
+        "runtime": {
+          "Void.BL.dll": {}
+        }
+      },
+      "Void.Core/1.0.0": {
+        "runtime": {
+          "Void.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Void.BL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Void.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

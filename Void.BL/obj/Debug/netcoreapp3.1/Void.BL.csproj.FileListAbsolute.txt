@@ -1,0 +1,12 @@
+C:\Users\Professional\source\repos\The Void\Void.BL\bin\Debug\netcoreapp3.1\Void.BL.deps.json
+C:\Users\Professional\source\repos\The Void\Void.BL\bin\Debug\netcoreapp3.1\Void.BL.dll
+C:\Users\Professional\source\repos\The Void\Void.BL\bin\Debug\netcoreapp3.1\Void.BL.pdb
+C:\Users\Professional\source\repos\The Void\Void.BL\bin\Debug\netcoreapp3.1\Void.Core.dll
+C:\Users\Professional\source\repos\The Void\Void.BL\bin\Debug\netcoreapp3.1\Void.Core.pdb
+C:\Users\Professional\source\repos\The Void\Void.BL\obj\Debug\netcoreapp3.1\Void.BL.csprojAssemblyReference.cache
+C:\Users\Professional\source\repos\The Void\Void.BL\obj\Debug\netcoreapp3.1\Void.BL.AssemblyInfoInputs.cache
+C:\Users\Professional\source\repos\The Void\Void.BL\obj\Debug\netcoreapp3.1\Void.BL.AssemblyInfo.cs
+C:\Users\Professional\source\repos\The Void\Void.BL\obj\Debug\netcoreapp3.1\Void.BL.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\The Void\Void.BL\obj\Debug\netcoreapp3.1\Void.BL.csproj.CopyComplete
+C:\Users\Professional\source\repos\The Void\Void.BL\obj\Debug\netcoreapp3.1\Void.BL.dll
+C:\Users\Professional\source\repos\The Void\Void.BL\obj\Debug\netcoreapp3.1\Void.BL.pdb

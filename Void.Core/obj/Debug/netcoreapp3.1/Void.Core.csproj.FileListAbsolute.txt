@@ -1,0 +1,9 @@
+C:\Users\Professional\source\repos\The Void\Void.Core\bin\Debug\netcoreapp3.1\Void.Core.deps.json
+C:\Users\Professional\source\repos\The Void\Void.Core\bin\Debug\netcoreapp3.1\Void.Core.dll
+C:\Users\Professional\source\repos\The Void\Void.Core\bin\Debug\netcoreapp3.1\Void.Core.pdb
+C:\Users\Professional\source\repos\The Void\Void.Core\obj\Debug\netcoreapp3.1\Void.Core.csprojAssemblyReference.cache
+C:\Users\Professional\source\repos\The Void\Void.Core\obj\Debug\netcoreapp3.1\Void.Core.AssemblyInfoInputs.cache
+C:\Users\Professional\source\repos\The Void\Void.Core\obj\Debug\netcoreapp3.1\Void.Core.AssemblyInfo.cs
+C:\Users\Professional\source\repos\The Void\Void.Core\obj\Debug\netcoreapp3.1\Void.Core.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\The Void\Void.Core\obj\Debug\netcoreapp3.1\Void.Core.dll
+C:\Users\Professional\source\repos\The Void\Void.Core\obj\Debug\netcoreapp3.1\Void.Core.pdb
