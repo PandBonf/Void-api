@@ -4,15 +4,18 @@ using System.Data;
 using System.Data.SqlClient;
 using System.Threading.Tasks;
 using Void.Core.Interfaces;
+using Void.Core.Models;
 
 namespace Void.Repository
 {
     public class SisterRepos : InterfaceRepos
     {
 
-        public async Task Mmm() {
+        public async Task<IEnumerable<SisterModel>> Get() {
             using IDbConnection connection = new SqlConnection("Data Source =locelhost;Initial Catalog=Sisters;Integrated Security = True;");
-            IEnumerable<TestClass> result = await connection.QueryAsync<TestClass>("SELECT [ID], [Name], [Age], [World], [Theme], [Color1], [Color2] FROM [Sisters].[dbo].[Turgor]"); }
+            IEnumerable<SisterModel> result = await connection.QueryAsync<SisterModel>("SELECT [ID], [Name], [Age], [World], [Theme], [Color1], [Color2] FROM [Sisters].[dbo].[Turgor]");
+            return result;
+        }
 
            
         public async Task Insert()
@@ -29,16 +32,7 @@ namespace Void.Repository
 
             await connection.ExecuteAsync("UPDATE dbo.Sisters SET Name = 'LULZ' WHERE Name = 'Ута'");
         }
-        public class TestClass
-        {
-            public int ID { get; set; }
-            public string Name { get; set; }
-            public int Age { get; set; }
-            public string World { get; set; }
-            public string Theme { get; set; }
-            public string Color1 { get; set; }
-            public string Color2 { get; set; }
-        }
+        
 
             
     }
